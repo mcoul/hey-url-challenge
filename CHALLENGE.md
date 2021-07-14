@@ -1,21 +1,7 @@
-![FullStack Labs](app/assets/images/FSL-logo-portrait.png)
-
 # Before You Start
 
 Please follow the [`Getting Started` section on README](./README.md) to set up
 your environment before starting the challenge.
-
-# Summary
-For this code challenge a Candidate will clone and setup an existing Rails
-application.  The application will contain routes, migrations, models, and
-minimal views but with no actual functionality created. The candidate will show
-all her/his expertise building apps with the Ruby on Rails framework and problem
-solving skills.
-
-# Overview
-HeyURL! is a service to create awesome friendly URLs to make it easier for
-people to remember. Our team developed some mock views but they lack our awesome
-functionality.
 
 # Requirements
 1. Implement actions to create a short URL based on a given full URL
